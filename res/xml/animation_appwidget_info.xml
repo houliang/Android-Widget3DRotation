@@ -1,0 +1,7 @@
+<appwidget-provider xmlns:android="http://schemas.android.com/apk/res/android"
+    android:minWidth="@dimen/animation_widget_min_width"
+    android:minHeight="@dimen/animation_widget_min_height"
+    android:initialLayout="@layout/animation_widget_layout"
+    android:previewImage="@drawable/img1_1" >
+    
+</appwidget-provider>

@@ -1,0 +1,9 @@
+bin/
+obj/
+gen/
+project.properties
+
+.idea/
+build.xml
+.gradle/
+
